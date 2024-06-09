@@ -6,3 +6,7 @@ UserName - admin
 Password - password
 
 please find the unit test project in solution for controller.
+
+Please change connection string in appsettings.json (server name)
+
+Please find db create script in and stored procedure in zip folder
